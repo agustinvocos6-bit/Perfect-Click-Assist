@@ -1,0 +1,11 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "didier.perfect_click_assist",
+  "name": "Perfect Click Assist",
+  "version": "1.0.0",
+  "developer": "Didier",
+  "description": "PCA - Click timing assistance for Geometry Dash"
+}
